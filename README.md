@@ -28,7 +28,7 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 **Programming**
 - ``` Python, JavaScript/TypeScript, Swift, SQL, C/C++, R ```
