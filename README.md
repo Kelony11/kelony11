@@ -10,9 +10,12 @@ Welcome to my GitHub profile! I'm a Software Engineer focused on frontend platfo
 
 * 🎓 B.S. in Computer Science, Minor in Economics, Rutgers University — May 2024
 
-* 💼 Software Developer Co-op @ Johnson & Johnson
+* 💼 Software Developer Co-op @ Johnson & Johnson Technology
     - integrated TanStack Router & TanStack Query into a React/Vite template to improve the internal developer experience.
-
+      
+* 💼 Software Developer Intern @ Colgate-Palmolive Technology
+    - Led the development and optimization of internal web tools using Python, React, and REST APIs to automate product testing workflows, reducing manual reporting time by 35% across multiple RD teams.
+      
 * 🧪 Strong on testing culture (Jasmine, Pytest, E2E) and DX (templates, scripts, CI).
 
 * 🌱 Currently learning advanced TanStack patterns, SwiftUI app architecture, and Rust parsing.
