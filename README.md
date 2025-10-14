@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Software Engineer focused on frontend platfo
 * 🎓 B.S. in Computer Science, Minor in Economics, Rutgers University — May 2024
 
 * 💼 Software Developer Co-op @ Johnson & Johnson
-↳ integrated TanStack Router & TanStack Query into a React/Vite template to improve the internal developer experience.
+    - integrated TanStack Router & TanStack Query into a React/Vite template to improve the internal developer experience.
 
 * 🧪 Strong on testing culture (Jasmine, Pytest, E2E) and DX (templates, scripts, CI).
 
