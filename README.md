@@ -65,19 +65,19 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 🏅 Badges & Certifications
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-623ce4?logo=terraform\&logoColor=white)
+![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
+![PSM I](https://img.shields.io/badge/Certification-PSM%20I-blue)
+![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-red?logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql\&logoColor=white)
 
 ---
 
 ## 📫 Connect with Me
 
-* 🌐 [Portfolio Website](https://sathyagopinath.netlify.app)
 * 💼 [LinkedIn](https://www.linkedin.com/in/sathyagopinath/)
-* 📧 [Email](mailto:sathyagopinath09@gmail.com)
+* 📧 [Email](mailto:ihezuekelvin@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sathyaboi\&color=brightgreen)
 
