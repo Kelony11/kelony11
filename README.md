@@ -51,8 +51,8 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
   Production‑ready Node.js CLI that transforms diverse equity CSV inputs into a deterministic N×M price matrix—built for data integrity in quant research pipelines with Jasmine‑tested workflows
   🔗 [View Repository](https://github.com/Sathyaboi/LifeSynchub)
 
-* **RecordSorter**
-  Node.js command‑line program to read and validate structured text records, enforce schema rules, and output chronologically sorted results—with full Jasmine tests.
+* **First-Compiler**
+  Rust expression compiler that builds an AST, optimizes with a DAG, and emits LLVM IR—demonstrating systems, compiler, and low-level codegen skills.
   🔗 [View Repository](https://github.com/Sathyaboi/MetroAnalytics)
 
 * **iCalVerify**
