@@ -58,8 +58,8 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 📊 GitHub Stats
 
-![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathyaboi\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyaboi\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelony11&layout=compact&theme=radical)
+
 
 ---
 
