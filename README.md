@@ -58,6 +58,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 📊 GitHub Stats
 
+![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelony11&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelony11&layout=compact&theme=radical)
 
 
@@ -76,7 +77,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 📫 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sathyagopinath/)
+* 💼 [LinkedIn](https://www.linkedin.com/in//)
 * 📧 [Email](mailto:ihezuekelvin@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sathyaboi\&color=brightgreen)
