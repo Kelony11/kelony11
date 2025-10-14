@@ -48,11 +48,11 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
  - ``` Python-scripted automation to integrate TanStack Router into a React/Vite template (configs across eslint.config.mjs, vite.config.ts, and package.json). Reduced setup time by ~40% and cut onboarding issues by ~60%. ```
 
 **TickerTensor**
-* Production‑ready Node.js CLI that transforms diverse equity CSV inputs into a deterministic N×M price matrix—built for data integrity in quant research pipelines with Jasmine‑tested workflows
+- ``` Production‑ready Node.js CLI that transforms diverse equity CSV inputs into a deterministic N×M price matrix—built for data integrity in quant research pipelines with Jasmine‑tested workflows ```
   🔗 [View Repository](https://github.com/Kelony11/TickerTensor)
 
 **First-Compiler**
-* Rust expression compiler that builds an AST, optimizes with a DAG, and emits LLVM IR—demonstrating systems, compiler, and low-level codegen skills.
+- ``` Rust expression compiler that builds an AST, optimizes with a DAG, and emits LLVM IR—demonstrating systems, compiler, and low-level codegen skills. ```
   🔗 [View Repository](https://github.com/Kelony11/First-Compiler)
 
 **iCalVerify**
