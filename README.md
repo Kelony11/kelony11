@@ -56,14 +56,6 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ---
 
-## 📊 GitHub Stats
-
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelony11&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelony11&layout=compact&theme=radical)
-
-
----
-
 ## 🏅 Badges & Certifications
 
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
