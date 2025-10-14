@@ -1,4 +1,4 @@
-# Hi there, I'm Kelvin 👋
+# Hi there, I'm Kelvin 👋🏾
 
 Welcome to my GitHub profile! I'm a Software Engineer focused on frontend platforms, developer-experience tooling, and reliable CLI utilities. I love building clean, tested systems—especially React/Vite templates, Node.js CLIs, and validation tooling that make teams faster. I’m also passionate about building iOS mobile apps and have hands-on, self-taught experience creating projects with Swift/SwiftUI.
 
@@ -69,7 +69,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 📫 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in//)
+* 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-ihezue/)
 * 📧 [Email](mailto:ihezuekelvin@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sathyaboi\&color=brightgreen)
