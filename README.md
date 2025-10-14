@@ -53,7 +53,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 * **First-Compiler**
   Rust expression compiler that builds an AST, optimizes with a DAG, and emits LLVM IR—demonstrating systems, compiler, and low-level codegen skills.
-  🔗 [View Repository](https://github.com/Sathyaboi/MetroAnalytics)
+  🔗 [View Repository](https://github.com/Kelony11/First-Compiler)
 
 * **iCalVerify**
   Node.js CLI validator for RFC 5545 (VEVENT components), with automated Jasmine test coverage and clear error reporting for malformed .ics files.
