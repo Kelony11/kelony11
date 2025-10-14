@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Software Engineer focused on frontend platfo
     - integrated TanStack Router & TanStack Query into a React/Vite template to improve the internal developer experience.
       
 * 💼 Software Developer Intern @ Colgate-Palmolive Technology
-    - Led the development and optimization of internal web tools using Python, React, and REST APIs to automate product testing workflows, reducing manual reporting time by 35% across multiple RD teams.
+    - Streamlined internal product-testing workflows with Python/React APIs, cutting manual reporting time by 35% across multiple R&D teams.
       
 * 🧪 Strong on testing culture (Jasmine, Pytest, E2E) and DX (templates, scripts, CI).
 
@@ -61,13 +61,13 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 🏅 Badges & Certifications
 
-**Practice**
+**Practice**:
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
 
-**Certifications**
+**Certifications**: 
 ![PSM I](https://img.shields.io/badge/Certification-PSM%20I-blue)
 
-**Languages**
+**Languages**: 
 ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
