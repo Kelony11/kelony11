@@ -49,7 +49,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 * **TickerTensor**
   Production‑ready Node.js CLI that transforms diverse equity CSV inputs into a deterministic N×M price matrix—built for data integrity in quant research pipelines with Jasmine‑tested workflows
-  🔗 [View Repository](https://github.com/Sathyaboi/LifeSynchub)
+  🔗 [View Repository](https://github.com/Kelony11/TickerTensor)
 
 * **First-Compiler**
   Rust expression compiler that builds an AST, optimizes with a DAG, and emits LLVM IR—demonstrating systems, compiler, and low-level codegen skills.
@@ -57,7 +57,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 * **iCalVerify**
   Node.js CLI validator for RFC 5545 (VEVENT components), with automated Jasmine test coverage and clear error reporting for malformed .ics files.
-  🔗 [View Repository](https://github.com/Sathyaboi/redshift-data-pipeline)
+  🔗 [View Repository](https://github.com/Kelony11/iCalVerify)
 
 ---
 
@@ -84,7 +84,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 * 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-ihezue/)
 * 📧 [Email](mailto:ihezuekelvin@gmail.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Sathyaboi\&color=brightgreen)
+![Visitor Count](https://komarev.com/ghpvc/?username=Kelony11&color=brightgreen)
 
 ---
 
