@@ -56,7 +56,7 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
   🔗 [View Repository](https://github.com/Kelony11/First-Compiler)
 
 **iCalVerify**
-* Node.js CLI validator for RFC 5545 (VEVENT components), with automated Jasmine test coverage and clear error reporting for malformed .ics files.
+- ``` Node.js CLI validator for RFC 5545 (VEVENT components), with automated Jasmine test coverage and clear error reporting for malformed .ics files. ```
   🔗 [View Repository](https://github.com/Kelony11/iCalVerify)
 
 ---
