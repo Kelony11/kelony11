@@ -58,12 +58,19 @@ Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/
 
 ## 🏅 Badges & Certifications
 
+**Practice**
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
+
+**Certifications**
 ![PSM I](https://img.shields.io/badge/Certification-PSM%20I-blue)
+
+**Languages**
 ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white)
+
+
 
 ---
 
