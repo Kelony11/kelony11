@@ -30,10 +30,10 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 
 ## 🛠️ Technical Skills
 
-**Programming**
+**Programming** 
 - ``` Python, JavaScript/TypeScript, Swift, SQL, C/C++, R ```
 
-**Web & Mobile**
+**Web & Mobile** 
 - ``` React, Next.js, Vite, HTML5, CSS3, SwiftUI, Material UI, Firebase, Node.js ```
 
 **Testing & Quality**
