@@ -65,7 +65,6 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 
 ## 🏅 Badges & Certifications
 
-**Languages**: 
 ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
