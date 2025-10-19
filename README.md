@@ -80,7 +80,7 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 ## 📫 Connect with Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-ihezue/)
-*  * 📧 [Email](mailto:ihezuekelvin@gmail.com)
+* 📧 [Email](mailto:ihezuekelvin@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kelony11&color=brightgreen)
 
