@@ -53,25 +53,17 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 - ``` Production‑ready Node.js CLI that transforms diverse equity CSV inputs into a deterministic N×M price matrix—built for data integrity in quant research pipelines with Jasmine‑tested workflows ```
   🔗 [View Repository](https://github.com/Kelony11/TickerTensor)
 
-**First-Compiler** ⚙️
-- ``` Rust expression compiler that builds an AST, optimizes with a DAG, and emits LLVM IR—demonstrating systems, compiler, and low-level codegen skills. ```
-  🔗 [View Repository](https://github.com/Kelony11/First-Compiler)
-
-**iCalVerify** 🗓️
-- ``` Node.js CLI validator for RFC 5545 (VEVENT components), with automated Jasmine test coverage and clear error reporting for malformed .ics files. ```
-  🔗 [View Repository](https://github.com/Kelony11/iCalVerify)
 
 ---
 
 ## 🏅 Badges & Certifications
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white)
-![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
 
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
