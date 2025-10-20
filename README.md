@@ -12,12 +12,12 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 
 * 🎓 M.S. in Software Engineering (ECE track), Rutgers University — Expected May 2026
 
-* 🎓 B.S. in Computer Science, Minor in Economics, Rutgers University — May 2024
+* 🎓 B.S. in Computer Science, Minor in Economics, Rutgers University — Graduated May 2024
 
-* 💼 Software Developer Co-op @ Johnson & Johnson Technology — Jan 2025
+* 💼 Software Developer Co-op @ Johnson & Johnson Technology 
     - integrated TanStack Router & TanStack Query into a React/Vite template to improve the internal developer experience.
       
-* 💼 Software Developer Intern @ Colgate-Palmolive Technology — Jun 2024
+* 💼 Software Developer Intern @ Colgate-Palmolive Technology 
     - Streamlined internal product-testing workflows with Python/React APIs, cutting manual reporting time by 35% across multiple R&D teams.
       
 * 🧪 Strong on testing culture (Jasmine, Pytest, E2E) and DX (templates, scripts, CI).
