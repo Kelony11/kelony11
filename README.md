@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I'm a Software Engineer focused on frontend platforms, developer-experience tooling, and reliable CLI utilities. I love building clean, tested systems—especially React/Vite templates, Node.js CLIs, and validation tooling that make teams faster. 
+I'm a Software Engineer focused on backend platforms, developer-experience tooling, and reliable CLI utilities. I love building clean, tested systems—especially React/Vite templates, Node.js CLIs, and validation tooling that make teams faster. 
     
 I’m also passionate about building iOS mobile apps and have hands-on, self-taught experience creating projects with Swift/SwiftUI.
 
