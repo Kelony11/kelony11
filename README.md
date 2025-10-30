@@ -31,16 +31,16 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 ## 🛠️ Technical Skills
 
 **Programming** 
-- ``` Python, JavaScript/TypeScript, Swift, SQL, C/C++, R ```
+- ``` Python, JavaScript/TypeScript, Swift, C/C++, SQL ```
 
 **Web & Mobile** 
-- ``` React, Next.js, Vite, HTML5, CSS3, SwiftUI, Material UI, Firebase, Node.js ```
+- ``` React, Next.js, SwiftUI, Material UI, Firebase, Node.js ```
 
 **Testing & Quality**
-- ``` Jasmine (JS unit tests), Pytest (Python), end‑to‑end testing, automated test coverage ```
+- ``` Jasmine (JS unit tests), Pytest (Python). ```
 
 **Tools & Platforms**
-- ``` Git, GitHub, Bitbucket, Docker, Jira, Confluence, ServiceNow, Linux/Unix, Agile/Scrum, GDPR Compliance ```
+- ``` Git, GitHub, Bitbucket, Linux/Unix, Agile/Scrum. ```
 
 ---
 
