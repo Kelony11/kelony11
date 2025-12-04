@@ -17,7 +17,7 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 * 💼 Software Developer Co-op @ Johnson & Johnson Technology 
     - integrated TanStack Router & TanStack Query into a React/Vite template to improve the internal developer experience.
       
-* 💼 Software Developer Intern @ Colgate-Palmolive Technology 
+* 💼 Software Developer Intern @ Cisco
     - Streamlined internal product-testing workflows with Python/React APIs, cutting manual reporting time by 35% across multiple R&D teams.
       
 * 🧪 Strong on testing culture (Jasmine, Pytest, E2E) and DX (templates, scripts, CI).
@@ -41,18 +41,6 @@ I’m also passionate about building iOS mobile apps and have hands-on, self-tau
 
 **Tools & Platforms**
 - ``` Git, GitHub, Bitbucket, Linux/Unix, Agile/Scrum. ```
-
----
-
-## 📌 Highlighted Projects
-
-**TanStack Router Integration (DX Automation) — J&J** 
- - ``` Python-scripted automation to integrate TanStack Router into a React/Vite template (configs across eslint.config.mjs, vite.config.ts, and package.json). Reduced setup time by ~40% and cut onboarding issues by ~60%. ```
-
-**TickerTensor** 📊
-- ``` Production‑ready Node.js CLI that transforms diverse equity CSV inputs into a deterministic N×M price matrix—built for data integrity in quant research pipelines with Jasmine‑tested workflows ```
-  🔗 [View Repository](https://github.com/Kelony11/TickerTensor)
-
 
 ---
 
