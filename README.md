@@ -3,8 +3,6 @@
 Welcome to my GitHub profile! 
 
 I'm a Software Engineer specializing in backend systems, developer-experience infrastructure, and scalable CLI tooling. I focus on building robust, testable platforms from API-driven services and job schedulers to Node.js CLIs and config validators that streamline engineering workflows and accelerate team productivity. 
-    
-I’m also passionate about building iOS mobile apps and have hands-on, self-taught experience creating projects with Swift/SwiftUI.
 
 ---
 
