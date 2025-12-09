@@ -30,17 +30,17 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ## 🛠️ Technical Skills
 
-**Programming** 
-- ``` Python, JavaScript/TypeScript, Swift, C/C++, SQL ```
+**Programming Languages** 
+- ``` Python, JavaScript/TypeScript, Swift, SQL, C/C++. ```
 
-**Web & Mobile** 
-- ``` React, Next.js, SwiftUI, Material UI, Firebase, Node.js ```
+**Frameworks/Libraries** 
+- ``` React, Node.js, SwiftUI, TanStack Router. ```
 
-**Testing & Quality**
-- ``` Jasmine (JS unit tests), Pytest (Python). ```
+**Database & APIs**
+- ``` Google Firestore (NoSQL), Firebase (Auth, Firestore, Storage), REST/JSON. ```
 
-**Tools & Platforms**
-- ``` Git, GitHub, Bitbucket, Linux/Unix, Agile/Scrum. ```
+**Tools & Testing**
+- ``` Git (GitHub/Bitbucket), Postman, Linux/Unix, Jasmine, Pytest. ```
 
 ---
 
