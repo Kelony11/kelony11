@@ -43,20 +43,8 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 **Tools & Testing**
 - ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white) ⃝ ![Postman](https://img.shields.io/badge/API-Postman-F24E1E?logo=postman&logoColor=white) ⃝ ![Linux/Unix](https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?logo=linux&logoColor=black) ⃝ ![Jasmine](https://img.shields.io/badge/Tests-Jasmine-8A4182?logo=jasmine&logoColor=white) ⃝ ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest&logoColor=white)
 
-
----
-
-## 🏅 Badges & Certifications
-
-
-
-
-
-![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
-
-![PSM I](https://img.shields.io/badge/Certification-PSM%20I-blue)
-
-
+**Certifications**
+- ![PSM I](https://img.shields.io/badge/Certification-PSM%20I-blue)
 
 ---
 
