@@ -57,4 +57,4 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ---
 
-👤 Kelvin Ihezue M.S. Software Engineer
+👤 **Kelvin Ihezue**
