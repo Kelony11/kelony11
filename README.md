@@ -38,6 +38,12 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ---
 
+## ???
+
+![LeetCode Card](https://leetcard.jacoblin.cool/<kelony11>?theme=dark&ext=heatmap)
+
+---
+
 ## 🏅 Badges & Certifications
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
