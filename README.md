@@ -26,7 +26,7 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Proficiency
 
 **Programming Languages**
 - ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)  ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white)  ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
