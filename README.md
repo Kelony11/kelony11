@@ -22,6 +22,12 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ---
 
+## Problem-Solving Stats
+
+![LeetCode Card](https://leetcard.jacoblin.cool/Kelony11?theme=dark&ext=heatmap)
+
+---
+
 ## 🛠️ Technical Skills
 
 **Programming** 
@@ -35,12 +41,6 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 **Tools & Platforms**
 - ``` Git, GitHub, Bitbucket, Linux/Unix, Agile/Scrum. ```
-
----
-
-## ???
-
-![LeetCode Card](https://leetcard.jacoblin.cool/Kelony11?theme=dark&ext=heatmap)
 
 ---
 
