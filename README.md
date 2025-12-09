@@ -32,6 +32,7 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 **Programming Languages** 
 - ``` Python, JavaScript/TypeScript, Swift, SQL, C/C++. ```
+- ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white), ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white), ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white).
 
 **Frameworks/Libraries** 
 - ``` React, Node.js, SwiftUI, TanStack Router. ```
@@ -47,11 +48,7 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 ## 🏅 Badges & Certifications
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
 
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-FFA116?logo=leetcode&logoColor=white)
