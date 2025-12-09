@@ -15,8 +15,6 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 * 💼 Software Developer Co-op @ Johnson & Johnson Technology 
       
 * 💼 Software Developer Intern @ Cisco
-      
-* 🧪 Strong on testing culture (Jasmine, Pytest, E2E) and DX (templates, scripts, CI).
 
 * ⚡ Passionate about iOS Mobile app devlopment & Node.js CLIs internal apps.
 
