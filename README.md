@@ -31,17 +31,17 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white) ⃝ ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white), ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white), ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+- ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white) ⃝ ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black) ⃝ ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white) ⃝ ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white) ⃝ ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
 **Frameworks/Libraries** 
-- ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white), ![SwiftUI](https://img.shields.io/badge/Frontend-SwiftUI-FA7343?logo=swift&logoColor=white), ![TanStack Router](https://img.shields.io/badge/Router-TanStack%20Router-FF4154?logo=tanstack&logoColor=white)
+- ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black) ⃝ ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white) ⃝ ![SwiftUI](https://img.shields.io/badge/Frontend-SwiftUI-FA7343?logo=swift&logoColor=white) ⃝ ![TanStack Router](https://img.shields.io/badge/Router-TanStack%20Router-FF4154?logo=tanstack&logoColor=white)
 
 
 **Database & APIs**
-- ![Firestore (NoSQL)](https://img.shields.io/badge/Database-Firestore%20(NoSQL)-FFCA28?logo=firebase&logoColor=black), ![Firebase Suite](https://img.shields.io/badge/Backend-Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?logo=firebase&logoColor=black),  ![REST/JSON](https://img.shields.io/badge/API-REST%2FJSON-85EA2D?logo=swagger&logoColor=black)
+- ![Firestore (NoSQL)](https://img.shields.io/badge/Database-Firestore%20(NoSQL)-FFCA28?logo=firebase&logoColor=black) ⃝ ![Firebase Suite](https://img.shields.io/badge/Backend-Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?logo=firebase&logoColor=black) ⃝ ![REST/JSON](https://img.shields.io/badge/API-REST%2FJSON-85EA2D?logo=swagger&logoColor=black)
 
 **Tools & Testing**
-- ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white), ![Postman](https://img.shields.io/badge/API-Postman-F24E1E?logo=postman&logoColor=white), ![Linux/Unix](https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?logo=linux&logoColor=black), ![Jasmine](https://img.shields.io/badge/Tests-Jasmine-8A4182?logo=jasmine&logoColor=white), ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest&logoColor=white)
+- ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white) ⃝ ![Postman](https://img.shields.io/badge/API-Postman-F24E1E?logo=postman&logoColor=white) ⃝ ![Linux/Unix](https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?logo=linux&logoColor=black) ⃝ ![Jasmine](https://img.shields.io/badge/Tests-Jasmine-8A4182?logo=jasmine&logoColor=white) ⃝ ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest&logoColor=white)
 
 
 ---
