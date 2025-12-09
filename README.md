@@ -40,7 +40,7 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ## ???
 
-![LeetCode Card](https://leetcard.jacoblin.cool/<kelony11>?theme=dark&ext=heatmap)
+![LeetCode Card](https://leetcard.jacoblin.cool/<Kelony11>?theme=dark&ext=heatmap)
 
 ---
 
