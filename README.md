@@ -22,7 +22,7 @@ I'm a Software Engineer specializing in backend systems, developer-experience in
 
 ## 🧮 Problem-Solving Stats
 
-![LeetCode Card](https://leetcard.jacoblin.cool/Kelony11?theme=dark&ext=heatmap)
+![LeetCode Card](https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0)
 
 ---
 
