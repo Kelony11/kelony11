@@ -13,7 +13,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 - 💼 **Software Developer Intern @ Cisco**
 - ⚡ Passionate about **iOS mobile app development** & **Node.js CLIs** for internal apps
 
-<br\>
+<br/>
 
 <!-- social links -->
 ## Connect with me
