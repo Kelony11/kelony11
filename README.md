@@ -1,58 +1,112 @@
-# Hi there, I'm Kelvin 👋🏾
+<h1 align="center">Kelvin Ihezue</h1><br/>
 
-Welcome to my GitHub profile! 
+<h2 align="center">Software Engineer (M.S. ’26) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-I'm a Software Engineer specializing in backend systems, developer-experience infrastructure, and scalable CLI tooling. I focus on building robust, testable platforms from API-driven services and job schedulers to Node.js CLIs and config validators that streamline engineering workflows and accelerate team productivity. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋🏾,+I'm+Kelvin;Welcome+to+my+profile!;Backend+Systems+%7C+DX+Infrastructure+%7C+CLI+Tooling;React%2FVite+%7C+Node.js+CLIs+%7C+Config+Validators;iOS+(Swift%2FSwiftUI)+—+self+taught)](https://git.io/typing-svg)
 
----
+I'm Kelvin Ihezue, and I build robust, testable platforms—from API-driven services and job schedulers to Node.js CLIs and config validators that streamline engineering workflows and accelerate team productivity. I also enjoy **iOS development** and have hands-on, self-taught experience in **Swift/SwiftUI**.
 
-## 🚀 About Me
+## About Me
+- 🎓 **M.S. in Software Engineering (ECE track)**, Rutgers University — *Expected May 2026*
+- 🎓 **B.S. in Computer Science**, **Minor in Economics**, Rutgers University — *May 2024*
+- 💼 **Software Developer Co-op @ Johnson & Johnson Technology**
+- 💼 **Software Developer Intern @ Cisco**
+- ⚡ Passionate about **iOS mobile app development** & **Node.js CLIs** for internal apps
 
-* 🎓 M.S. in Software Engineering (ECE track), Rutgers University — Expected May 2026
+<br/><br/>
 
-* 🎓 B.S. in Computer Science, Minor in Economics, Rutgers University — Graduated May 2024
+<!-- social links -->
+<h3 align="left">:coffee:&emsp;Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kelvin-ihezue/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="mailto:ihezuekelvin@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/apple-mail.png"/></a>
+  <a href="https://github.com/Kelony11"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+</p>
 
-* 💼 Software Developer Co-op @ Johnson & Johnson Technology 
-      
-* 💼 Software Developer Intern @ Cisco
+<!-- problem solving / leetcode -->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Problem-Solving Stats</h2>
 
-* ⚡ Passionate about iOS Mobile app devlopment & Node.js CLIs internal apps.
+<p align="center">
+  <!-- LeetCode Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" alt="LeetCode heatmap" />
+</p>
 
----
+<!-- technologies -->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Technologies that I know</h2>
 
-## 🧮 Problem-Solving Stats
+<br/>
+<p align="center">
+  <!-- Core languages / runtimes -->
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Code-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Code-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
 
-![LeetCode Card](https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0)
+  <!-- Frontend / mobile -->
+  <img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="https://img.shields.io/badge/Frontend-SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Router-TanStack%20Router-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" height="30"/>
 
----
+  <!-- Databases / cloud -->
+  <img src="https://img.shields.io/badge/Database-Firestore%20(NoSQL)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Backend-Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
 
-## 🛠️ Technical Proficiency
+  <!-- APIs / tools -->
+  <img src="https://img.shields.io/badge/API-REST%2FJSON-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/API-Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
 
-**Programming Languages**
-- ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/Code-Swift-FA7343?logo=swift&logoColor=white)  ![SQL](https://img.shields.io/badge/Data-SQL-lightgrey?logo=postgresql&logoColor=white)  ![C/C++](https://img.shields.io/badge/Code-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+  <!-- OS / devops / testing -->
+  <img src="https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tests-Jasmine-8A4182?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"/>
+</p>
+<br/>
 
-**Frameworks/Libraries** 
-- ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)  ![SwiftUI](https://img.shields.io/badge/Frontend-SwiftUI-FA7343?logo=swift&logoColor=white)  ![TanStack Router](https://img.shields.io/badge/Router-TanStack%20Router-FF4154?logo=tanstack&logoColor=white)
+<!-- tools -->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools</h2>
 
+<br/>
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+  <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.icons8.com/fluency/48/postman-api.png"/></a>
+  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+  <a href="https://www.apple.com/swift/"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+</p>
+<br/>
 
-**Database & APIs**
-- ![Firestore (NoSQL)](https://img.shields.io/badge/Database-Firestore%20(NoSQL)-FFCA28?logo=firebase&logoColor=black)  ![Firebase Suite](https://img.shields.io/badge/Backend-Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?logo=firebase&logoColor=black)  ![REST/JSON](https://img.shields.io/badge/API-REST%2FJSON-85EA2D?logo=swagger&logoColor=black)
+<!-- github states and trophies -->
+<p align="center">
+  <table>
+    <h1 align="center">Github Stats</h1>
+    <tr>
+      <td><img alt="Kelony11 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kelony11&theme=blue-green&show_icons=true&count_private=true&hide_border=true"/></td>
+      <td><img alt="Kelony11 :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelony11&langs_count=10&theme=blue-green&layout=compact&hide_border=true"/></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kelony11&theme=blue-green&hide_border=true"/></td>
+    </tr>
+  </table>
+</p>
 
-**Tools & Testing**
-- ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/API-Postman-F24E1E?logo=postman&logoColor=white)  ![Linux/Unix](https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?logo=linux&logoColor=black)  ![Jasmine](https://img.shields.io/badge/Tests-Jasmine-8A4182?logo=jasmine&logoColor=white)  ![Pytest](https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kelony11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-**Certifications**
-- ![PSM I](https://img.shields.io/badge/Certification-PSM%20I-blue)
+## ❤ Views and Followers
+<a href="https://github.com/Kelony11/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=Kelony11&color=brightgreen" height="30">
+</a>
+<a href="https://github.com/Kelony11?tab=followers">
+  <img src="https://img.shields.io/github/followers/Kelony11?label=Followers&style=social" alt="GitHub Badge" height="30">
+</a><br/>
 
----
-
-## 📫 Connect with Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/kelvin-ihezue/)
-* 📧 [Email](mailto:ihezuekelvin@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Kelony11&color=brightgreen)
-
----
-
-👤 **Kelvin Ihezue**
+<!-- random quote -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
