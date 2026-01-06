@@ -23,8 +23,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <a href="https://github.com/Kelony11"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 </p>
 
-<br/>
-
 <!-- problem solving / leetcode -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Problem-Solving Stats</h2>
 
@@ -33,7 +31,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <img src="https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" alt="LeetCode heatmap" />
 </p>
 
-<br/>
 
 <!-- technologies -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Technologies that I know</h2>
@@ -63,8 +60,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"/>
 </p>
-
-<br/>
 
 <!-- tools -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools</h2>
