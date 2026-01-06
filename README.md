@@ -82,31 +82,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms—from API-driven serv
 </p>
 <br/>
 
-<!-- github states and trophies -->
-<p align="center">
-  <table>
-    <h1 align="center">Github Stats</h1>
-    <tr>
-      <td><img alt="Kelony11 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Kelony11&theme=blue-green&show_icons=true&count_private=true&hide_border=true"/></td>
-      <td><img alt="Kelony11 :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelony11&langs_count=10&theme=blue-green&layout=compact&hide_border=true"/></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kelony11&theme=blue-green&hide_border=true"/></td>
-    </tr>
-  </table>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kelony11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## ❤ Views and Followers
-<a href="https://github.com/Kelony11/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Kelony11&color=brightgreen" height="30">
-</a>
-<a href="https://github.com/Kelony11?tab=followers">
-  <img src="https://img.shields.io/github/followers/Kelony11?label=Followers&style=social" alt="GitHub Badge" height="30">
-</a><br/>
-
 <!-- random quote -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
