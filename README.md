@@ -73,7 +73,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms—from API-driven serv
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-  <a href="https://www.postman.com/"><img src="https://img.icons8.com/fluency/48/postman-api.png"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.icons8.com/fluency/48/postman-api.png" alt="Postman"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
   <a href="https://www.apple.com/swift/"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
