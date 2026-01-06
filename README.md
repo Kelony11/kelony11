@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋🏾,+I'm+Kelvin;Welcome+to+my+profile!;Backend+Systems+%7C+DX+Infrastructure+%7C+CLI+Tooling;React%2FVite+%7C+Node.js+CLIs+%7C+Config+Validators;iOS+(Swift%2FSwiftUI)+—+self+taught)](https://git.io/typing-svg)
 
-I'm Kelvin Ihezue, and I build robust, testable platforms—from API-driven services and job schedulers to Node.js CLIs and config validators that streamline engineering workflows and accelerate team productivity. I also enjoy **iOS development** and have hands-on, self-taught experience in **Swift/SwiftUI**.
+I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven services and job schedulers to Node.js CLIs and config validators that streamline engineering workflows and accelerate team productivity. I also enjoy **iOS development** and have hands-on, self-taught experience in **Swift/SwiftUI**.
 
 ## About Me
 - 🎓 **M.S. in Software Engineering (ECE track)**, Rutgers University — *Expected May 2026*
