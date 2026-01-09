@@ -7,7 +7,7 @@
 I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven services and job schedulers to Node.js CLIs and config validators that streamline engineering workflows and accelerate team productivity. I also enjoy **iOS development** and have hands-on, self-taught experience in **Swift/SwiftUI**.
 
 ## About Me
-- 🎓 **M.S. in Software Engineering (ECE track)**, Rutgers University — *Expected May 2026*
+- 🎓 **M.S. in Software Engineering (ECE track)**, Rutgers University — *Expected December 2026*
 - 🎓 **B.S. in Computer Science**, **Minor in Economics**, Rutgers University — *May 2024*
 - 💼 **Software Developer Co-op @ Johnson & Johnson Technology**
 - 💼 **Software Developer Intern @ Cisco**
