@@ -2,11 +2,11 @@ name: Update LeetCode Heatmap
 
 on:
   schedule:
-    - cron: "0 */6 * * *"      # every 6 hours (adjust as you like)
+    - cron: "0 */6 * * *"    # every 6 hours
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write            # <— lets the action push the SVG
 
 jobs:
   fetch:
@@ -24,29 +24,25 @@ jobs:
           # Try up to 6 times to fetch the live SVG
           OK=0
           for i in 1 2 3 4 5 6; do
-            if curl -fsSL -H "User-Agent: github-action" \
+            STATUS=$(curl -sSL -w "%{http_code}" -H "User-Agent: github-action" \
               "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" \
-              -o "$OUT"; then
-              # Ensure file is not empty
-              if [ -s "$OUT" ]; then OK=1; break; fi
-            fi
+              -o "$OUT")
+            echo "HTTP $STATUS"
+            if [ "$STATUS" = "200" ] && [ -s "$OUT" ]; then OK=1; break; fi
             sleep 15
           done
 
-          # If still not OK, write a fallback SVG so README never breaks
+          # Fallback so README never breaks
           if [ $OK -eq 0 ]; then
             cat > "$OUT" <<'SVG'
-        <svg xmlns="http://www.w3.org/2000/svg" width="760" height="180">
-          <rect width="100%" height="100%" fill="#0d1117"/>
-          <text x="50%" y="50%" fill="#9aa6b2" font-size="18" text-anchor="middle" dominant-baseline="middle">
-            LeetCode heatmap unavailable — retrying soon…
-          </text>
-        </svg>
-        SVG
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <text x="50%" y="50%" fill="#9aa6b2" font-size="18" text-anchor="middle" dominant-baseline="middle">
+    LeetCode heatmap unavailable — retrying soon…
+  </text>
+</svg>
+SVG
           fi
-
-          echo "Result size:"
-          wc -c "$OUT"
 
       - name: Commit if changed
         run: |
