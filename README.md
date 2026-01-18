@@ -15,7 +15,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <br/>
 
-<!-- social links -->
 ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/kelvin-ihezue/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -26,11 +25,10 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 <!-- problem solving / leetcode -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Problem-Solving Stats</h2>
 
+<!-- Always-on local SVG maintained by a GitHub Action -->
 <p align="center">
-  <!-- LeetCode Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" alt="LeetCode heatmap" />
+  <img src="./assets/leetcode-heatmap.svg" alt="LeetCode heatmap" />
 </p>
-
 
 <!-- technologies -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Technologies that I know</h2>
@@ -68,14 +66,13 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-  <a href="https://www.postman.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman"/></a>
+  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
   <a href="https://www.apple.com/swift/"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
   <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 </p>
-<br/>
 
 <!-- random quote -->
 ### ✍️ Random Dev Quote
