@@ -1,8 +1,13 @@
 name: Update LeetCode Heatmap
+
 on:
   schedule:
-    - cron: "17 2 * * *"   # daily at 02:17 UTC
+    - cron: "17 2 * * *"       # daily at 02:17 UTC
   workflow_dispatch:
+
+# allow the workflow to push to your repo
+permissions:
+  contents: write
 
 jobs:
   fetch:
@@ -13,13 +18,18 @@ jobs:
 
       - name: Fetch heatmap SVG (with retries)
         run: |
+          set -euxo pipefail
           mkdir -p assets
-          for i in {1..5}; do
+          # Try up to 6 times in case the service is flaky
+          for i in 1 2 3 4 5 6; do
             curl -fsSL \
+              -H "User-Agent: github-action" \
               "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" \
-              -o assets/leetcode-heatmap.svg && break || sleep 10
+              -o assets/leetcode-heatmap.svg && break || sleep 15
           done
           test -s assets/leetcode-heatmap.svg
+          echo "Downloaded size:"
+          wc -c assets/leetcode-heatmap.svg
 
       - name: Commit if changed
         run: |
@@ -30,5 +40,5 @@ jobs:
             git commit -m "chore: update LeetCode heatmap"
             git push
           else
-            echo "No changes."
+            echo "No changes to commit."
           fi
