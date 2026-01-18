@@ -232,4 +232,4 @@ path#L {
         }.extension {
             opacity: 0;
             animation: fade_in 0.3s ease 1.80s 1 forwards;
-        }@keyframes circle_66 { 0% { opacity: 0; stroke-dasharray: 0 1000; } 50% { opacity: 1; } 100% { opacity: 1; stroke-dasharray: 35.49933837075259 1000; } }.ring { animation: circle_66 1.2s ease 0.7s 1 forwards }</style></svg>
+        }@keyframes circle_900 { 0% { opacity: 0; stroke-dasharray: 0 1000; } 50% { opacity: 1; } 100% { opacity: 1; stroke-dasharray: 35.49933837075259 1000; } }.ring { animation: circle_900 1.2s ease 0.7s 1 forwards }</style></svg>
