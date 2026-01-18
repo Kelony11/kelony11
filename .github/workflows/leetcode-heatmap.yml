@@ -19,7 +19,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      CARD_URL: "https://leetcode.card.workers.dev/Kelony11?ext=heatmap&theme=dark&cache=3600"
+      CARD_URL: "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0"
       OUT_PATH: "assets/leetcode-heatmap.svg"
 
     steps:
