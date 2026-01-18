@@ -80,4 +80,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <!-- random quote -->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
