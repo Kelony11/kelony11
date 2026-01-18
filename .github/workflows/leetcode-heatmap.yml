@@ -1,17 +1,12 @@
 name: Update LeetCode Heatmap
 
 on:
-  schedule:
-    - cron: "17 2 * * *"   # daily at 02:17 UTC
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
-      - '**'              # run on any branch (keep if you want it truly repo-wide)
+  push:                 # run on ANY push to any branch
     paths-ignore:
-      - 'assets/leetcode-heatmap.svg'   # don't retrigger on the bot's own update
-      - '.github/workflows/**'          # avoid loops when editing workflows
+      - 'assets/leetcode-heatmap.svg'   # don't loop when the bot updates the file
+  schedule:
+    - cron: "17 2 * * *"                # daily
+  workflow_dispatch:                    # manual run button
 
 permissions:
   contents: write
@@ -22,8 +17,6 @@ concurrency:
 
 jobs:
   fetch:
-    # skip if the actor is the bot (prevents infinite loop on bot commit)
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     env:
       CARD_URL: "https://leetcode.card.workers.dev/Kelony11?ext=heatmap&theme=dark&cache=3600"
