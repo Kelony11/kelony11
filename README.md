@@ -23,7 +23,8 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- problem solving / leetcode -->
-<h2><![LeetCode Stats](https://leetcard.jacoblin.cool/Kelony11?theme=dark&font=Kumbh%20Sans&ext=heatmap)</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Problem-Solving Stats</h2>
+<!-- <h2><![LeetCode Stats](https://leetcard.jacoblin.cool/Kelony11?theme=dark&font=Kumbh%20Sans&ext=heatmap)</h2> -->
 
 
 <!-- technologies -->
