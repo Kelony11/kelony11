@@ -52,15 +52,16 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <p align="center">
   <!-- Frameworks tech stack -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+  <img src="./assets/React.svg" height="30"/>
+  <img src="./assets/Node.js.svg" height="30"/>
+  <img src="./assets/SwiftUI.svg" height="30"/>
+  <img src="./assets/Tanstack-Router.svg" height="30"/>
     
 </p>
 
 <p align="center">
   <!-- row 2 -->
-  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/TanStack%20Router-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" height="30"/>
+
   <img src="https://img.shields.io/badge/Firestore%20(NoSQL)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/REST%2FJSON-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="30"/>
