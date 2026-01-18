@@ -36,6 +36,8 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <!-- technologies -->
 ## Technologies that I know
+
+<!-- Languages header --> 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Languages</h2>
 
 <p align="center">
@@ -48,6 +50,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <img src="./assets/Swift.svg" height="30"/>
 </p>
 
+<!-- Frameworks header --> 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Frameworks</h2>
 
 <p align="center">
@@ -59,18 +62,25 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
     
 </p>
 
-<p align="center">
-  <!-- row 2 -->
 
-  <img src="https://img.shields.io/badge/Firestore%20(NoSQL)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/REST%2FJSON-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="30"/>
+<!--  Database & APIs header --> 
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Database & APIs</h2>
+
+<p align="center">
+  <!-- Database & APIs tech stack -->
+  <img src="./assets/Firebase.svg" height="30"/>
+  <img src="./assets/Firestore.svg" height="30"/>
+  <img src="./assets/Rest-Json.svg" height="30"/>
+  <img src="./assets/PostgreSQL.svg" height="30/">
+</p>
+
+
   <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge" height="30"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"/>
-</p>
+
 
 <!-- tools -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools</h2>
