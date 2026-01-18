@@ -28,9 +28,9 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   &nbsp;Problem-Solving Stats
 </h2>
 
-<!-- <p align="center">
+<p align="center">
   <img src="./assets/leetcode-heatmap.svg" alt="LeetCode heatmap" width="800"/>
-</p> -->
+</p> 
 
 
 
