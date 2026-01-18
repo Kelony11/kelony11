@@ -57,12 +57,13 @@ jobs:
             ["TypeScript"]="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
             ["Python"]="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
             ["Swift"]="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"
-            ["SQL"]="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
+            ["PostgreSQL"]="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
             ["C++.svg"]="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
             ["React.svg"]="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
             ["Node.js.svg"]="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
             ["SwiftUI.svg"]="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"
             ["Tanstack-Router.svg"]="https://img.shields.io/badge/TanStack%20Router-FF4154?style=for-the-badge&logo=tanstack&logoColor=white"
+            ["SQL"]="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
           )
           # Note: map key "C++.svg" ensures the output filename contains the plus signs.
           for name in "${!badges[@]}"; do
