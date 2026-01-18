@@ -1,47 +1,74 @@
-name: Update LeetCode Heatmap
+name: Update LeetCode Heatmap & Dev Quote
 
 on:
-  push:                 # run on ANY push to any branch
+  push:                       # run on ANY push
     paths-ignore:
-      - 'assets/leetcode-heatmap.svg'   # don't loop when the bot updates the file
+      - 'assets/leetcode-heatmap.svg'   # avoid loops when bot updates assets
+      - 'assets/random_dev_quote.svg'
   schedule:
-    - cron: "17 2 * * *"                # daily
-  workflow_dispatch:                    # manual run button
+    - cron: "17 2 * * *"      # daily
+  workflow_dispatch:           # manual run button
 
 permissions:
   contents: write
 
 concurrency:
-  group: leetcode-heatmap
+  group: profile-assets
   cancel-in-progress: false
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      CARD_URL: "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0"
-      OUT_PATH: "assets/leetcode-heatmap.svg"
+      HEATMAP_URL: "https://leetcode.card.workers.dev/Kelony11?ext=heatmap&theme=dark&cache=3600"
+      HEATMAP_OUT: "assets/leetcode-heatmap.svg"
+      QUOTE_URL:   "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+      QUOTE_OUT:   "assets/random_dev_quote.svg"
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fetch heatmap SVG (with retries)
-        run: |
-          mkdir -p assets
-          for i in {1..5}; do
-            curl -fsSL -A "gh-actions-leetcode-heatmap" "$CARD_URL" -o "$OUT_PATH" && break || sleep 10
-          done
-          test -s "$OUT_PATH"
+      - name: Prepare folder
+        run: mkdir -p assets
 
-      - name: Commit if changed
+      - name: Fetch LeetCode heatmap (retry + validate)
         run: |
-          if [[ -n "$(git status --porcelain "$OUT_PATH")" ]]; then
+          TMP="$(mktemp)"
+          for i in {1..5}; do
+            curl -fsSL -H "Accept: image/svg+xml" -A "gh-actions-profile-assets" \
+                 "$HEATMAP_URL" -o "$TMP" && break || sleep 10
+          done
+          # ensure non-empty & contains <svg>
+          if [ -s "$TMP" ] && grep -qi "<svg" "$TMP"; then
+            mv "$TMP" "$HEATMAP_OUT"
+          else
+            echo "::warning::Heatmap fetch failed or not SVG; keeping previous file."
+            rm -f "$TMP"
+          fi
+
+      - name: Fetch Dev Quote (retry + validate)
+        run: |
+          TMP="$(mktemp)"
+          for i in {1..5}; do
+            curl -fsSL -H "Accept: image/svg+xml" -A "gh-actions-profile-assets" \
+                 "$QUOTE_URL" -o "$TMP" && break || sleep 10
+          done
+          if [ -s "$TMP" ] && grep -qi "<svg" "$TMP"; then
+            mv "$TMP" "$QUOTE_OUT"
+          else
+            echo "::warning::Quote fetch failed or not SVG; keeping previous file."
+            rm -f "$TMP"
+          fi
+
+      - name: Commit if any asset changed
+        run: |
+          if [[ -n "$(git status --porcelain assets/)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add "$OUT_PATH"
-            git commit -m "chore: update LeetCode heatmap"
+            git add assets/leetcode-heatmap.svg assets/random_dev_quote.svg
+            git commit -m "chore: update profile assets (heatmap/quote)"
             git push
           else
-            echo "No changes in $OUT_PATH"
+            echo "No changes in assets."
           fi
