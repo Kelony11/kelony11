@@ -78,6 +78,9 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 </p>
 
+---
+<br/>
+
 <!-- random quote -->
 ### ✍️ Random Dev Quote
 
