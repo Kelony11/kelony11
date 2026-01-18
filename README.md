@@ -23,7 +23,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- problem solving / leetcode -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kelony11?theme=dark&font=Kumbh%20Sans&ext=heatmap&cache=3600)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kelony11?theme=dark&font=Kumbh%20Sans&ext=heatmap&cache=0)
 
 
 <!-- Always-on local SVG maintained by a GitHub Action -->
