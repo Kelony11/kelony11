@@ -85,5 +85,5 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 ### ✍🏾 Random Dev Quote
 
 <p align="center">
-  <img src="./assets/random_dev_quote.svg" alt="Random dev quote" width="800"/>
+  <img src="./assets/random_dev_quote.svg" alt="Random dev quote" width="600"/>
 </p>
