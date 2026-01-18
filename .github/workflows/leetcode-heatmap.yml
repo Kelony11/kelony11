@@ -1,0 +1,34 @@
+name: Update LeetCode Heatmap
+on:
+  schedule:
+    - cron: "17 2 * * *"   # daily at 02:17 UTC
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch heatmap SVG (with retries)
+        run: |
+          mkdir -p assets
+          for i in {1..5}; do
+            curl -fsSL \
+              "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" \
+              -o assets/leetcode-heatmap.svg && break || sleep 10
+          done
+          test -s assets/leetcode-heatmap.svg
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain assets/leetcode-heatmap.svg)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/leetcode-heatmap.svg
+            git commit -m "chore: update LeetCode heatmap"
+            git push
+          else
+            echo "No changes."
+          fi
