@@ -35,13 +35,7 @@ jobs:
           # Fallback so README never breaks
           if [ $OK -eq 0 ]; then
             cat > "$OUT" <<'SVG'
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="50%" y="50%" fill="#9aa6b2" font-size="18" text-anchor="middle" dominant-baseline="middle">
-    LeetCode heatmap unavailable — retrying soon…
-  </text>
-</svg>
-SVG
+
           fi
 
       - name: Commit if changed
