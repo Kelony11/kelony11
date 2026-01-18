@@ -15,7 +15,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <br/>
 
-## Connect with me
+## Connect with m
 <p align="left">
   <a href="https://www.linkedin.com/in/kelvin-ihezue/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="mailto:ihezuekelvin@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/apple-mail.png"/></a>
