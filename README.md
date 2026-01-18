@@ -35,18 +35,26 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 
 <!-- technologies -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Technologies that I know</h2>
+## Technologies that I know
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Languages</h2>
 
 <p align="center">
-  <!-- row 1 -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/C%2FCPP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="30"/>
+  <!-- Languages tech stack -->
+  <img src="./assets/JavaScript.svg" height="30"/>
+  <img src="./assets/TypeScript.svg" height="30"/>
+  <img src="./assets/Python.svg" height="30"/>
+  <img src="./assets/SQL.svg" height="30"/>
+  <img src="./assets/C++.svg" height="30"/>
+  <img src="./assets/Swift.svg" height="30"/>
+</p>
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Frameworks</h2>
+
+<p align="center">
+  <!-- Frameworks tech stack -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+    
 </p>
 
 <p align="center">
