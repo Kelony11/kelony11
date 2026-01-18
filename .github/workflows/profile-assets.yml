@@ -1,13 +1,19 @@
-name: Update LeetCode Heatmap & Dev Quote
+name: Update all profile assets
 
 on:
-  push:                       # run on ANY push
+  push:
     paths-ignore:
-      - 'assets/leetcode-heatmap.svg'   # avoid loops when bot updates assets
+      - 'assets/leetcode-heatmap.svg'
       - 'assets/random_dev_quote.svg'
+      - 'assets/JavaScript.svg'
+      - 'assets/TypeScript.svg'
+      - 'assets/Python.svg'
+      - 'assets/Swift.svg'
+      - 'assets/SQL.svg'
+      - 'assets/C++.svg'
   schedule:
-    - cron: "17 2 * * *"      # daily
-  workflow_dispatch:           # manual run button
+    - cron: "17 2 * * *"     # daily
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,11 +26,11 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      HEATMAP_URL: "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0"
+      # Cards (feel free to switch back to jacoblin.cool if you prefer)
+      HEATMAP_URL: "https://leetcode.card.workers.dev/Kelony11?ext=heatmap&theme=dark&cache=3600"
       HEATMAP_OUT: "assets/leetcode-heatmap.svg"
       QUOTE_URL:   "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
       QUOTE_OUT:   "assets/random_dev_quote.svg"
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,40 +40,58 @@ jobs:
 
       - name: Fetch LeetCode heatmap (retry + validate)
         run: |
-          TMP="$(mktemp)"
+          tmp="$(mktemp)"
           for i in {1..5}; do
             curl -fsSL -H "Accept: image/svg+xml" -A "gh-actions-profile-assets" \
-                 "$HEATMAP_URL" -o "$TMP" && break || sleep 10
+              "$HEATMAP_URL" -o "$tmp" && break || sleep 10
           done
-          # ensure non-empty & contains <svg>
-          if [ -s "$TMP" ] && grep -qi "<svg" "$TMP"; then
-            mv "$TMP" "$HEATMAP_OUT"
-          else
-            echo "::warning::Heatmap fetch failed or not SVG; keeping previous file."
-            rm -f "$TMP"
-          fi
+          if [ -s "$tmp" ] && grep -qi "<svg" "$tmp"; then mv "$tmp" "$HEATMAP_OUT"; else echo "::warning::heatmap not svg"; rm -f "$tmp"; fi
 
       - name: Fetch Dev Quote (retry + validate)
         run: |
-          TMP="$(mktemp)"
+          tmp="$(mktemp)"
           for i in {1..5}; do
             curl -fsSL -H "Accept: image/svg+xml" -A "gh-actions-profile-assets" \
-                 "$QUOTE_URL" -o "$TMP" && break || sleep 10
+              "$QUOTE_URL" -o "$tmp" && break || sleep 10
           done
-          if [ -s "$TMP" ] && grep -qi "<svg" "$TMP"; then
-            mv "$TMP" "$QUOTE_OUT"
-          else
-            echo "::warning::Quote fetch failed or not SVG; keeping previous file."
-            rm -f "$TMP"
-          fi
+          if [ -s "$tmp" ] && grep -qi "<svg" "$tmp"; then mv "$tmp" "$QUOTE_OUT"; else echo "::warning::quote not svg"; rm -f "$tmp"; fi
+
+      - name: Fetch badge SVGs (JavaScript, TypeScript, Python, Swift, SQL, C++)
+        shell: bash
+        run: |
+          declare -A badges=(
+            ["JavaScript"]="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+            ["TypeScript"]="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+            ["Python"]="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+            ["Swift"]="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"
+            ["SQL"]="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"
+            ["C++.svg"]="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+          )
+          # Note: map key "C++.svg" ensures the output filename contains the plus signs.
+          for name in "${!badges[@]}"; do
+            url="${badges[$name]}"
+            out="assets/${name}"
+            [[ "$name" != *".svg" ]] && out="assets/${name}.svg"
+            t="$(mktemp)"
+            for i in {1..5}; do
+              curl -fsSL -H "Accept: image/svg+xml" -A "gh-actions-profile-assets" \
+                "$url" -o "$t" && break || sleep 5
+            done
+            if [ -s "$t" ] && grep -qi "<svg" "$t"; then
+              mv "$t" "$out"
+            else
+              echo "::warning::badge $name not svg"
+              rm -f "$t"
+            fi
+          done
 
       - name: Commit if any asset changed
         run: |
           if [[ -n "$(git status --porcelain assets/)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/leetcode-heatmap.svg assets/random_dev_quote.svg
-            git commit -m "chore: update profile assets (heatmap/quote)"
+            git add assets/*.svg
+            git commit -m "chore: update profile assets (heatmap/quote/badges)"
             git push
           else
             echo "No changes in assets."
