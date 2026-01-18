@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Cards (feel free to switch back to jacoblin.cool if you prefer)
-      HEATMAP_URL: "https://leetcode.card.workers.dev/Kelony11?ext=heatmap&theme=dark&cache=3600"
+      HEATMAP_URL: "https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0"
       HEATMAP_OUT: "assets/leetcode-heatmap.svg"
       QUOTE_URL:   "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
       QUOTE_OUT:   "assets/random_dev_quote.svg"
