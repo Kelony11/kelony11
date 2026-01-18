@@ -4,8 +4,15 @@ on:
   schedule:
     - cron: "17 2 * * *"   # daily at 02:17 UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+      - '**'              # run on any branch (keep if you want it truly repo-wide)
+    paths-ignore:
+      - 'assets/leetcode-heatmap.svg'   # don't retrigger on the bot's own update
+      - '.github/workflows/**'          # avoid loops when editing workflows
 
-# needed so the Action can push the updated SVG
 permissions:
   contents: write
 
@@ -15,10 +22,13 @@ concurrency:
 
 jobs:
   fetch:
+    # skip if the actor is the bot (prevents infinite loop on bot commit)
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     env:
       CARD_URL: "https://leetcode.card.workers.dev/Kelony11?ext=heatmap&theme=dark&cache=3600"
       OUT_PATH: "assets/leetcode-heatmap.svg"
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,11 +36,9 @@ jobs:
       - name: Fetch heatmap SVG (with retries)
         run: |
           mkdir -p assets
-          # Try up to 5 times in case the endpoint is slow/flaky
           for i in {1..5}; do
             curl -fsSL -A "gh-actions-leetcode-heatmap" "$CARD_URL" -o "$OUT_PATH" && break || sleep 10
           done
-          # Ensure file is non-empty
           test -s "$OUT_PATH"
 
       - name: Commit if changed
