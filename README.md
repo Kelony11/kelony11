@@ -23,8 +23,14 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- problem solving / leetcode -->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Problem-Solving Stats</h2>
+
 <p align="center">
-  <img src="./assets/leetcode-heatmap.svg" alt="LeetCode heatmap" />
+  <!-- Prefer local SVG; if it’s missing, show the live external card -->
+  <picture>
+    <source srcset="./assets/leetcode-heatmap.svg" type="image/svg+xml"/>
+    <img src="https://leetcard.jacoblin.cool/Kelony11?ext=heatmap&theme=dark&cache=0" alt="LeetCode heatmap"/>
+  </picture>
 </p>
 
 <!-- <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Problem-Solving Stats</h2> -->
