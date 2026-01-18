@@ -3,14 +3,7 @@ name: Update all profile assets
 on:
   push:
     paths-ignore:
-      - 'assets/leetcode-heatmap.svg'
-      - 'assets/random_dev_quote.svg'
-      - 'assets/JavaScript.svg'
-      - 'assets/TypeScript.svg'
-      - 'assets/Python.svg'
-      - 'assets/Swift.svg'
-      - 'assets/SQL.svg'
-      - 'assets/C++.svg'
+      - 'assets/**'
   schedule:
     - cron: "17 2 * * *"     # daily
   workflow_dispatch:
