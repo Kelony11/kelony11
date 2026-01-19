@@ -72,6 +72,9 @@ jobs:
             ["Firebase"]="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
             ["Firestore"]="https://img.shields.io/badge/Firestore%20(NoSQL)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
             ["Rest-Json"]="https://img.shields.io/badge/REST%2FJSON-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"
+            ["AWS"]="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
+            ["Docker"]="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
+            ["Github-actions"]="https://www.vectorlogo.zone/logos/github/github-icon.svg"
 
             
           )
