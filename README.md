@@ -23,7 +23,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- problem solving / leetcode -->
-<h2>
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
   &nbsp;Problem-Solving Stats
 </h2>
@@ -51,7 +51,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- Frameworks header --> 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Frameworks</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Frameworks</h2>
 
 <p align="center">
   <!-- Frameworks tech stack -->
@@ -64,7 +64,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 
 <!--  Database & APIs header --> 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Database & APIs</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Database & APIs</h2>
 
 <p align="center">
   <!-- Database & APIs tech stack -->
@@ -75,7 +75,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- Tools & Testing APIs header -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools & Testing</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools & Testing</h2>
 
 <p align="center">
   <!-- Tools & Testing APIs tech stack -->
@@ -87,7 +87,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 </p>
 
 <!-- DevOps header -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;DevOps</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;DevOps</h2>
 
 <p align="center">
   <!-- DevOps tech stack -->
