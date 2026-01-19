@@ -66,7 +66,7 @@ jobs:
             ["SQL"]="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
             ["Git"]="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             ["Postman"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-            ["Linux"]="https://img.icons8.com/color/48/000000/linux.png"
+            ["Linux"]="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
             ["Jasmine"]="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
             ["Pytest"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"
             ["Firebase"]="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
