@@ -86,8 +86,19 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <img src="./assets/Pytest.svg" height="30"/>
 </p>
 
+<!-- DevOps header -->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;DevOps</h2>
+
+<p align="center">
+  <!-- DevOps tech stack -->
+  <img src="./assets/AWS.svg" height="30"/>
+  <img src="./assets/Docker.svg" height="30"/>
+  <img src="./assets/Github-actions.svg" height="30"/>
+</p>
+
 ---
 <br/>
+
 
 <!-- random quote -->
 ### ✍🏾 Random Dev Quote
