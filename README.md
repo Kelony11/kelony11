@@ -79,28 +79,12 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <p align="center">
   <!-- Tools & Testing APIs tech stack -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30"/>
+  <img src="./assets/Git.svg" height="30"/>
+  <img src="./assets/Postman.svg" height="30"/>
+  <img src="./assets/Linux.svg" height="30"/>
+  <img src="./assets/Jasmine.svg" height="30"/>
+  <img src="./assets/Pytest.svg" height="30"/>
 </p>
-
-  
-  
-  <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-  
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-  
-
-
-  
-  <img src="https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
-  
-  
-  
-
 
 ---
 <br/>
