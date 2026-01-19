@@ -69,6 +69,11 @@ jobs:
             ["Linux"]="https://img.icons8.com/color/48/000000/linux.png"
             ["Jasmine"]="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
             ["Pytest"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"
+            ["Firebase"]="https://img.shields.io/badge/Firebase%20(Auth%2C%20Firestore%2C%20Storage)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+            ["Firestore"]="https://img.shields.io/badge/Firestore%20(NoSQL)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+            ["Rest-Json"]="https://img.shields.io/badge/REST%2FJSON-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"
+
+            
           )
           # Note: map key "C++.svg" ensures the output filename contains the plus signs.
           for name in "${!badges[@]}"; do
