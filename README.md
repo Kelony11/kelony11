@@ -80,12 +80,11 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 <p align="center">
   <!-- Tools & Testing APIs tech stack -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" height="30"/></a>
+  <img src="https://img.icons8.com/color/48/000000/git.png" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" height="30"/></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30"/>
-
 </p>
 
   
