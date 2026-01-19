@@ -74,28 +74,34 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <img src="./assets/PostgreSQL.svg" height="30/">
 </p>
 
+<!-- Tools & Testing APIs header -->
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools & Testing</h2>
 
-  <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+<p align="center">
+  <!-- Tools & Testing APIs tech stack -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="Pytest"/>
 
-
-<!-- tools -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"/>&nbsp;Tools</h2>
-
-<br/>
-<p align="left">
-  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-  <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-  <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman"/></a>
-  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-  <a href="https://www.apple.com/swift/"><img src="https://img.icons8.com/color/48/000000/swift.png"/></a>
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
 </p>
+
+  
+  
+  <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+  
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+  
+
+
+  
+  <img src="https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/>
+  
+  
+  
+
 
 ---
 <br/>
