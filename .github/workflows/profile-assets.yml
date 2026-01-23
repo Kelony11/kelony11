@@ -76,8 +76,6 @@ jobs:
             ["C"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
             ["MongoDB"]="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
             
-
-            
           )
           # Note: map key "C++.svg" ensures the output filename contains the plus signs.
           for name in "${!badges[@]}"; do
