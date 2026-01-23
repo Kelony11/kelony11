@@ -69,7 +69,7 @@ jobs:
             ["Jasmine"]="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
             ["Pytest"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"
             ["Firebase"]="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            ["Rest-Json"]="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/swagger.svg"
+            ["Rest-Json"]="https://cdn.simpleicons.org/swagger/85EA2D.svg"
             ["AWS"]="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
             ["Docker"]="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
             ["Github-actions"]="https://www.vectorlogo.zone/logos/github/github-icon.svg"
