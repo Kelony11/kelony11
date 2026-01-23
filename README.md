@@ -46,7 +46,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <img src="./assets/TypeScript.svg" height="30"/>
   <img src="./assets/Python.svg" height="30"/>
   <img src="./assets/SQL.svg" height="30"/>
-  <img src="./assets/C.svg" height="30"/>
   <img src="./assets/C++.svg" height="30"/>
   <img src="./assets/Swift.svg" height="30"/>
 </p>
