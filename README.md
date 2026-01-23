@@ -68,7 +68,6 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 <p align="center">
   <!-- Database & APIs tech stack -->
   <img src="./assets/Firebase.svg" height="30"/>
-  <img src="./assets/Firestore.svg" height="30"/>
   <img src="./assets/Rest-Json.svg" height="30"/>
   <img src="./assets/PostgreSQL.svg" height="30/">
 </p>
