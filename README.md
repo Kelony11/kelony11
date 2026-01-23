@@ -42,9 +42,9 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 
 <p align="center">
   <!-- Languages tech stack -->
+  <img src="./assets/Python.svg" height="30"/>
   <img src="./assets/JavaScript.svg" height="30"/>
   <img src="./assets/TypeScript.svg" height="30"/>
-  <img src="./assets/Python.svg" height="30"/>
   <img src="./assets/SQL.svg" height="30"/>
   <img src="./assets/C++.svg" height="30"/>
   <img src="./assets/Swift.svg" height="30"/>
@@ -69,8 +69,8 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <!-- Database & APIs tech stack -->
   <img src="./assets/MongoDB.svg" height="30"/>
   <img src="./assets/Firebase.svg" height="30"/>
-  <img src="./assets/Rest-Json.svg" height="30"/>
   <img src="./assets/PostgreSQL.svg" height="30/">
+  <img src="./assets/Rest-Json.svg" height="30"/>
 </p>
 
 <!-- Tools & Testing APIs header -->
