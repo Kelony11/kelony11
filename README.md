@@ -57,7 +57,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <!-- Frameworks tech stack -->
   <img src="./assets/React.svg" height="30"/>
   <img src="./assets/Node.js.svg" height="30"/>
-  <img src="./assets/Tanstack-Router.svg" height="30"/>
+  <img src="./assets/Django.svg" height="30"/>
     
 </p>
 
