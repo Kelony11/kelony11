@@ -61,7 +61,7 @@ jobs:
             ["C++.svg"]="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg"
             ["React.svg"]="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
             ["Node.js.svg"]="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-            ["Tanstack-Router.svg"]="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tanstack.svg"
+            ["Django.svg"]="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
             ["SQL"]="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             ["Git"]="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             ["Postman"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
