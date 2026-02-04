@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
-          <p>- Martin Fowler</p>
+          <h3>I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.</h3>
+          <p>- Ken Thompson</p>
         </div>
       </div>
     </foreignObject>
