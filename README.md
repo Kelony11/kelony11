@@ -81,6 +81,7 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
   <!-- Tools & Testing APIs tech stack -->
   <img src="./assets/Git.svg" height="30"/>
   <img src="./assets/Postman.svg" height="30"/>
+  <img src="./assets/Blender.svg" height="30"/>
   <img src="./assets/Linux.svg" height="30"/>
   <img src="./assets/Jasmine.svg" height="30"/>
   <img src="./assets/Pytest.svg" height="30"/>
