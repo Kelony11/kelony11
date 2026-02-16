@@ -76,6 +76,7 @@ jobs:
             ["C"]="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
             ["MongoDB"]="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
             ["Yahoo_finance_api"]="https://www.vectorlogo.zone/logos/yahoo/yahoo-icon.svg"
+            ["Blender"]="https://www.vectorlogo.zone/logos/blender/blender-icon.svg"
             
           )
           # Note: map key "C++.svg" ensures the output filename contains the plus signs.
