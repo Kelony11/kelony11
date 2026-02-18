@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.</h3>
-          <p>- Terry Winograd</p>
+          <h3>If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.</h3>
+          <p>- Linus Torvalds</p>
         </div>
       </div>
     </foreignObject>
