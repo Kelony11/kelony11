@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.</h3>
-          <p>- Brian Kernighan</p>
+          <h3>In handling resources, strive to avoid disaster rather than to attain an optimum.</h3>
+          <p>- Butler Lampson</p>
         </div>
       </div>
     </foreignObject>
