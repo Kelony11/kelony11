@@ -9,8 +9,8 @@ I'm Kelvin Ihezue, and I build robust, testable platforms from API-driven servic
 ## About Me
 - 🎓 **M.S. in Software Engineering (ECE track)**, Rutgers University — *Expected December 2026*
 - 🎓 **B.S. in Computer Science**, **Minor in Economics**, Rutgers University — *May 2024*
+- 💼 **Software Developer Intern @ Leidos**
 - 💼 **Software Developer Co-op @ Johnson & Johnson Technology**
-- 💼 **Software Developer Intern @ Cisco**
 - ⚡ Passionate about **iOS mobile app development** & **Node.js CLIs** for internal apps
 
 <br/>
