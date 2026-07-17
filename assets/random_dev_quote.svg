@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.</h3>
-          <p>- Dennis Ritchie</p>
+          <h3>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.</h3>
+          <p>- Brian Kernighan</p>
         </div>
       </div>
     </foreignObject>
