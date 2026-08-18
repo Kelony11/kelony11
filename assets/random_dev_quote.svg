@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
-          <p>- Rob Pike</p>
+          <h3>Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.</h3>
+          <p>- Joseph Yoder (computer scientist)</p>
         </div>
       </div>
     </foreignObject>
