@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>Everything should be made as simple as possible. But to do that you have to master complexity.</h3>
+          <p>- Butler Lampson</p>
         </div>
       </div>
     </foreignObject>
