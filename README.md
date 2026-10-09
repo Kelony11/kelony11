@@ -1,6 +1,6 @@
 <h1 align="center">Kelvin Ihezue</h1><br/>
 
-<h2 align="center">Software Engineer (M.S. ’26) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Software Engineer.(M.S in Artificial Intelligence ’26) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋🏾,+I'm+Kelvin;Welcome+to+my+profile!;Backend+Systems+%7C+DX+Infrastructure+%7C+CLI+Tooling;React%2FVite+%7C+Node.js+CLIs+%7C+Config+Validators;iOS+(Swift%2FSwiftUI)+—+self+taught)](https://git.io/typing-svg)
 
